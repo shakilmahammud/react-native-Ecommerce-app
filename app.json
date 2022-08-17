@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "e-comerce",
-    "slug": "e-comerce",
+    "name": "aac-audio-app",
+    "slug": "aac-audio-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
